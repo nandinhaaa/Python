@@ -6,17 +6,17 @@ Repositório com os exercícios desenvolvidos em Python conforme os enunciados d
 
 ## 📑 Sumário
 
-- [Atividade Prática 03](#🔷-atividade-prática-03)  
-  - [Exercício 1 – Classificador de Idade](#🔹-exercício-1--classificador-de-idade)  
-  - [Exercício 2 – Calculadora de IMC](#🔹-exercício-2--calculadora-de-imc)  
-  - [Exercício 3 – Conversor de Temperatura](#🔹-exercício-3--conversor-de-temperatura)  
-  - [Exercício 4 – Verificador de Ano Bissexto](#🔹-exercício-4--verificador-de-ano-bissexto)  
+- [Atividade Prática 03](#atividade-pratica-03)  
+  - [Exercício 1 – Classificador de Idade](#exercicio-1-classificador-de-idade)  
+  - [Exercício 2 – Calculadora de IMC](#exercicio-2-calculadora-de-imc)  
+  - [Exercício 3 – Conversor de Temperatura](#exercicio-3-conversor-de-temperatura)  
+  - [Exercício 4 – Verificador de Ano Bissexto](#exercicio-4-verificador-de-ano-bissexto)  
 
-- [Atividade Prática 04](#🔷-atividade-prática-04)  
-  - [Exercício 1 – Calculadora de Operações Básicas](#✅-exercício-1--calculadora-de-operações-básicas)  
-  - [Exercício 2 – Registro de Notas da Turma](#📝-exercício-2--registro-de-notas-da-turma)  
-  - [Exercício 3 – Verificador de Senha Forte](#🔐-exercício-3--verificador-de-senha-forte)  
-  - [Exercício 4 – Classificador Par ou Ímpar](#🔢-exercício-4--classificador-par-ou-ímpar)  
+- [Atividade Prática 04](#atividade-pratica-04)  
+  - [Exercício 1 – Calculadora de Operações Básicas](#exercicio-1-calculadora-de-operacoes-basicas)  
+  - [Exercício 2 – Registro de Notas da Turma](#exercicio-2-registro-de-notas-da-turma)  
+  - [Exercício 3 – Verificador de Senha Forte](#exercicio-3-verificador-de-senha-forte)  
+  - [Exercício 4 – Classificador Par ou Ímpar](#exercicio-4-classificador-par-ou-impar)  
 
 ---
 
