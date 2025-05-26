@@ -7,22 +7,22 @@ Repositório com os exercícios desenvolvidos em Python conforme os enunciados d
 ## 📑 Sumário
 
 - [Atividade Prática 03](#atividade-pratica-03)  
-  - [Exercício 1 – Classificador de Idade](#exercicio-1-classificador-de-idade)  
-  - [Exercício 2 – Calculadora de IMC](#exercicio-2-calculadora-de-imc)  
-  - [Exercício 3 – Conversor de Temperatura](#exercicio-3-conversor-de-temperatura)  
-  - [Exercício 4 – Verificador de Ano Bissexto](#exercicio-4-verificador-de-ano-bissexto)  
+  - [Exercício 1 - Classificador de Idade](#exercicio-1---classificador-de-idade)  
+  - [Exercício 2 - Calculadora de IMC](#exercicio-2---calculadora-de-imc)  
+  - [Exercício 3 - Conversor de Temperatura](#exercicio-3---conversor-de-temperatura)  
+  - [Exercício 4 - Verificador de Ano Bissexto](#exercicio-4---verificador-de-ano-bissexto)  
 
 - [Atividade Prática 04](#atividade-pratica-04)  
-  - [Exercício 1 – Calculadora de Operações Básicas](#exercicio-1-calculadora-de-operacoes-basicas)  
-  - [Exercício 2 – Registro de Notas da Turma](#exercicio-2-registro-de-notas-da-turma)  
-  - [Exercício 3 – Verificador de Senha Forte](#exercicio-3-verificador-de-senha-forte)  
-  - [Exercício 4 – Classificador Par ou Ímpar](#exercicio-4-classificador-par-ou-impar)  
+  - [Exercício 1 - Calculadora de Operações Básicas](#exercicio-1---calculadora-de-operacoes-basicas)  
+  - [Exercício 2 - Registro de Notas da Turma](#exercicio-2---registro-de-notas-da-turma)  
+  - [Exercício 3 - Verificador de Senha Forte](#exercicio-3---verificador-de-senha-forte)  
+  - [Exercício 4 - Classificador Par ou Ímpar](#exercicio-4---classificador-par-ou-impar)  
 
 ---
 
 ## 🔷 Atividade Prática 03
 
-### 🔹 Exercício 1 – Classificador de Idade
+### 🔹 Exercício 1 - Classificador de Idade
 
 Crie um programa que solicite a idade do usuário e classifique-o em uma das seguintes categorias:
 
@@ -35,7 +35,7 @@ Crie um programa que solicite a idade do usuário e classifique-o em uma das seg
 
 ---
 
-### 🔹 Exercício 2 – Calculadora de IMC
+### 🔹 Exercício 2 - Calculadora de IMC
 
 Desenvolva um programa que calcule o Índice de Massa Corporal (IMC) de uma pessoa.  
 O programa deve solicitar o peso (em kg) e a altura (em metros) do usuário, calcular o IMC e fornecer a classificação de acordo com a tabela padrão:
@@ -49,7 +49,7 @@ O programa deve solicitar o peso (em kg) e a altura (em metros) do usuário, cal
 
 ---
 
-### 🔹 Exercício 3 – Conversor de Temperatura
+### 🔹 Exercício 3 - Conversor de Temperatura
 
 Crie um programa que converta temperaturas entre Celsius, Fahrenheit e Kelvin.  
 O usuário deve informar a temperatura, a unidade de origem e a unidade para qual deseja converter.
@@ -58,7 +58,7 @@ O usuário deve informar a temperatura, a unidade de origem e a unidade para qua
 
 ---
 
-### 🔹 Exercício 4 – Verificador de Ano Bissexto
+### 🔹 Exercício 4 - Verificador de Ano Bissexto
 
 Faça um programa que determine se um ano inserido pelo usuário é bissexto ou não.  
 Um ano é bissexto se for divisível por 4, exceto anos centenários (divisíveis por 100) que não são divisíveis por 400.
@@ -69,7 +69,7 @@ Um ano é bissexto se for divisível por 4, exceto anos centenários (divisívei
 
 ## 🔷 Atividade Prática 04
 
-### ✅ Exercício 1 – Calculadora de Operações Básicas
+### ✅ Exercício 1 - Calculadora de Operações Básicas
 
 Solicita dois números e uma operação (+, -, *, /).  
 Repete até que uma operação válida seja feita.  
@@ -80,7 +80,7 @@ Mostra o resultado e encerra.
 
 ---
 
-### 📝 Exercício 2 – Registro de Notas da Turma
+### 📝 Exercício 2 - Registro de Notas da Turma
 
 Continua solicitando notas até o professor digitar 'fim'.  
 Aceita apenas notas entre 0 e 10.  
@@ -91,7 +91,7 @@ Ao final, exibe a média da turma.
 
 ---
 
-### 🔐 Exercício 3 – Verificador de Senha Forte
+### 🔐 Exercício 3 - Verificador de Senha Forte
 
 Senha forte: no mínimo 8 caracteres e pelo menos um número.  
 Continua pedindo senha até ser forte ou o usuário digitar 'sair'.
@@ -100,7 +100,7 @@ Continua pedindo senha até ser forte ou o usuário digitar 'sair'.
 
 ---
 
-### 🔢 Exercício 4 – Classificador Par ou Ímpar
+### 🔢 Exercício 4 - Classificador Par ou Ímpar
 
 Solicita números inteiros até digitar 'fim'.  
 Informa se é par ou ímpar.  
