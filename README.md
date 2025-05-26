@@ -16,7 +16,7 @@ Repositório com os exercícios desenvolvidos em Python conforme os enunciados d
   - [Exercício 1 - Calculadora de Operações Básicas](#exercicio-1---calculadora-de-operacoes-basicas)  
   - [Exercício 2 - Registro de Notas da Turma](#exercicio-2---registro-de-notas-da-turma)  
   - [Exercício 3 - Verificador de Senha Forte](#exercicio-3---verificador-de-senha-forte)  
-  - [Exercício 4 - Classificador Par ou Ímpar](#exercicio-4---classificador-par-ou-impar)  
+  - [Exercício 4 - Classificador Par ou Impar](#exercicio-4---classificador-par-ou-impar)  
 
 ---
 
@@ -26,10 +26,10 @@ Repositório com os exercícios desenvolvidos em Python conforme os enunciados d
 
 Crie um programa que solicite a idade do usuário e classifique-o em uma das seguintes categorias:
 
-- 👶 Criança (0–12 anos)  
-- 🧒 Adolescente (13–17 anos)  
-- 🧑 Adulto (18–59 anos)  
-- 👴 Idoso (60 anos ou mais)
+- Criança (0–12 anos)  
+- Adolescente (13–17 anos)  
+- Adulto (18–59 anos)  
+- Idoso (60 anos ou mais)
 
 ![Exercício 1](https://github.com/user-attachments/assets/afcf84a7-196b-4411-82b6-1a8440a88e9f)
 
@@ -100,7 +100,7 @@ Continua pedindo senha até ser forte ou o usuário digitar 'sair'.
 
 ---
 
-### 🔢 Exercício 4 - Classificador Par ou Ímpar
+### 🔢 Exercício 4 - Classificador Par ou Impar
 
 Solicita números inteiros até digitar 'fim'.  
 Informa se é par ou ímpar.  
