@@ -1,6 +1,6 @@
 # 📘 Atividades Práticas – Python
 
-Repositório com os exercícios desenvolvidos em Python conforme os enunciados das Atividades Práticas 03 e 04.
+Repositório com os exercícios desenvolvidos em Python conforme os enunciados das Atividades Práticas 03, 04 e 05.
 
 ---
 
@@ -17,6 +17,11 @@ Repositório com os exercícios desenvolvidos em Python conforme os enunciados d
   - [Exercício 2 - Registro de Notas da Turma](#exercicio-2-registro-notas-turma)  
   - [Exercício 3 - Verificador de Senha Forte](#exercicio-3-verificador-senha-forte)  
   - [Exercício 4 - Classificador Par ou Impar](#exercicio-4-classificador-par-ou-impar)  
+
+- [Atividade Prática 05](#atividade-pratica-05)  
+  - [Exercício 1 - Calculadora de Gorjeta](#exercicio-1-calculadora-gorjeta)  
+  - [Exercício 2 - Verificador de Palíndromo](#exercicio-2-verificador-palindromo)  
+  - [Exercício 3 - Idade em Dias](#exercicio-3-idade-em-dias)  
 
 ---
 
@@ -116,5 +121,42 @@ Se não for número, informa o erro.
 Ao final, exibe a quantidade total de pares e ímpares inseridos.
 
 ![Exercício 4](https://github.com/user-attachments/assets/2a5b1e7b-bffe-49bb-8de6-075698453c2a)
+
+---
+
+## 🔷 Atividade Prática 05
+
+<a id="exercicio-1-calculadora-gorjeta"></a>
+### 💰 Exercício 1 - Calculadora de Gorjeta
+
+Crie uma função que calcule a gorjeta a ser deixada em um restaurante, baseada no valor total da conta e na porcentagem de gorjeta desejada.
+
+- Solicita o valor da conta e a porcentagem da gorjeta.  
+- Calcula e exibe o valor da gorjeta a ser deixada.
+
+![Exercício 1](https://github.com/user-attachments/assets/8d6b82b2-1326-4a80-8793-eb87b9ec78e4)
+
+---
+
+<a id="exercicio-2-verificador-palindromo"></a>
+### 🔄 Exercício 2 - Verificador de Palíndromo
+
+Crie uma função que verifique se uma palavra ou frase é um palíndromo, desconsiderando espaços e pontuações.
+
+- Retorna `"Sim"` se for palíndromo e `"Não"` caso contrário.
+
+![Exercício 2](https://github.com/user-attachments/assets/0acad7b9-9a60-41dd-bb75-d190c6477127)
+
+---
+
+<a id="exercicio-3-idade-em-dias"></a>
+### 📅 Exercício 3 - Idade em Dias
+
+Crie uma função que calcule a idade de uma pessoa em dias com base no ano de nascimento.
+
+- Solicita o ano de nascimento.  
+- Retorna a idade aproximada em dias (sem considerar anos bissextos).
+
+![Exercício 3](https://github.com/user-attachments/assets/29d17571-1364-402d-a869-08472d31bf70)
 
 ---
