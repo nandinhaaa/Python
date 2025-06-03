@@ -22,10 +22,10 @@ Repositório com os exercícios desenvolvidos em Python conforme os enunciados d
   - [Exercício 3 - Idade em Dias](#exercicio-3-idade-em-dias)  
 
 - [Atividade Prática 07](#atividade-pratica-07)  
-  - [Exercício 1 - Cálculo de Média e Desvio em Log de Treinamento](#exercicio-1-calculo-de-media-e-desvio-em-log-de-treinamento)  
-  - [Exercício 2 - Escrita de Dados em CSV com Informações de Pessoas](#exercicio-2-escrita-de-dados-em-csv-com-informacoes-de-pessoas)  
-  - [Exercício 3 - Leitura e Exibição de Dados de Arquivo CSV](#exercicio-3-leitura-e-exibicao-de-dados-de-arquivo-csv)  
-  - [Exercício 4 - Leitura e Escrita de Dados em Arquivo JSON](#exercicio-4-leitura-e-escrita-de-dados-em-arquivo-json)  
+  - [Exercício 1 - Cálculo de Média e Desvio em Log de Treinamento](#exercicio-1)  
+  - [Exercício 2 - Escrita de Dados em CSV com Informações de Pessoas](#exercicio-2)  
+  - [Exercício 3 - Leitura e Exibição de Dados de Arquivo CSV](#exercicio-3)  
+  - [Exercício 4 - Leitura e Escrita de Dados em Arquivo JSON](#exercicio-4)  
 
 ---
 
@@ -167,6 +167,7 @@ Crie uma função que calcule a idade de uma pessoa em dias com base no ano de n
 
 ## 🔷 Atividade Prática 07
 
+<a id="exercicio-1"></a>
 ### 📊 Exercício 1 - Cálculo de Média e Desvio em Log de Treinamento
 
 Leia um arquivo que contém dados de log de treinamento de modelos de Machine Learning.  
@@ -176,6 +177,7 @@ Calcule a média e o desvio padrão do tempo de execução constantes.
 
 ---
 
+<a id="exercicio-2"></a>
 ### 📝 Exercício 2 - Escrita de Dados em CSV com Informações de Pessoas
 
 Crie um script em Python que escreva dados em um arquivo CSV.  
@@ -186,6 +188,7 @@ O arquivo CSV deve conter informações de pessoas, com colunas Nome, Idade e Ci
 
 ---
 
+<a id="exercicio-3"></a>
 ### 📂 Exercício 3 - Leitura e Exibição de Dados de Arquivo CSV
 
 Crie um script em Python que leia um arquivo CSV e exiba os dados na tela.  
@@ -195,6 +198,7 @@ O arquivo CSV deve conter informações de pessoas, com colunas Nome, Idade e Ci
 
 ---
 
+<a id="exercicio-4"></a>
 ### 📄 Exercício 4 - Leitura e Escrita de Dados em Arquivo JSON
 
 Crie um script em Python que leia e escreva dados em um arquivo JSON.  
@@ -202,4 +206,3 @@ O arquivo JSON deve conter informações de uma pessoa, com campos nome, idade e
 
 ![Exercício 4](https://github.com/user-attachments/assets/33b921bb-48b5-4814-8e44-181dadc99192)  
 ![Exercício 4](https://github.com/user-attachments/assets/c8b7617c-dbe1-4b41-bb4e-f5532dac73d3)
-
