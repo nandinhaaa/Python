@@ -2,8 +2,6 @@
 
 Repositório com os exercícios desenvolvidos em Python conforme os enunciados das Atividades Práticas 03, 04 e 05.
 
----
-
 ## 📑 Sumário
 
 - [Atividade Prática 03](#atividade-pratica-03)  
@@ -16,12 +14,18 @@ Repositório com os exercícios desenvolvidos em Python conforme os enunciados d
   - [Exercício 1 - Calculadora de Operações Básicas](#exercicio-1-calculadora-operacoes-basicas)  
   - [Exercício 2 - Registro de Notas da Turma](#exercicio-2-registro-notas-turma)  
   - [Exercício 3 - Verificador de Senha Forte](#exercicio-3-verificador-senha-forte)  
-  - [Exercício 4 - Classificador Par ou Impar](#exercicio-4-classificador-par-ou-impar)  
+  - [Exercício 4 - Classificador Par ou Ímpar](#exercicio-4-classificador-par-ou-impar)  
 
 - [Atividade Prática 05](#atividade-pratica-05)  
   - [Exercício 1 - Calculadora de Gorjeta](#exercicio-1-calculadora-gorjeta)  
   - [Exercício 2 - Verificador de Palíndromo](#exercicio-2-verificador-palindromo)  
   - [Exercício 3 - Idade em Dias](#exercicio-3-idade-em-dias)  
+
+- [Atividade Prática 07](#atividade-pratica-07)  
+  - [Exercício 1 - Cálculo de Média e Desvio em Log de Treinamento](#exercicio-1-calculo-de-media-e-desvio-em-log-de-treinamento)  
+  - [Exercício 2 - Escrita de Dados em CSV com Informações de Pessoas](#exercicio-2-escrita-de-dados-em-csv-com-informacoes-de-pessoas)  
+  - [Exercício 3 - Leitura e Exibição de Dados de Arquivo CSV](#exercicio-3-leitura-e-exibicao-de-dados-de-arquivo-csv)  
+  - [Exercício 4 - Leitura e Escrita de Dados em Arquivo JSON](#exercicio-4-leitura-e-escrita-de-dados-em-arquivo-json)  
 
 ---
 
@@ -160,3 +164,42 @@ Crie uma função que calcule a idade de uma pessoa em dias com base no ano de n
 ![Exercício 3](https://github.com/user-attachments/assets/29d17571-1364-402d-a869-08472d31bf70)
 
 ---
+
+## 🔷 Atividade Prática 07
+
+### 📊 Exercício 1 - Cálculo de Média e Desvio em Log de Treinamento
+
+Leia um arquivo que contém dados de log de treinamento de modelos de Machine Learning.  
+Calcule a média e o desvio padrão do tempo de execução constantes.
+
+![Exercício 1](https://github.com/user-attachments/assets/803933df-a853-4b1f-a8e5-263f2f477191)
+
+---
+
+### 📝 Exercício 2 - Escrita de Dados em CSV com Informações de Pessoas
+
+Crie um script em Python que escreva dados em um arquivo CSV.  
+O arquivo CSV deve conter informações de pessoas, com colunas Nome, Idade e Cidade.
+
+![Exercício 2](https://github.com/user-attachments/assets/ce63e606-ba42-4b31-862d-120f75bf2e17)  
+![Exercício 2](https://github.com/user-attachments/assets/deb6a58f-45e5-417e-8bd6-bc2527cad0f9)
+
+---
+
+### 📂 Exercício 3 - Leitura e Exibição de Dados de Arquivo CSV
+
+Crie um script em Python que leia um arquivo CSV e exiba os dados na tela.  
+O arquivo CSV deve conter informações de pessoas, com colunas Nome, Idade e Cidade.
+
+![Exercício 3](https://github.com/user-attachments/assets/63929ae1-14e9-4d13-b556-1ba9cc9b0af2)
+
+---
+
+### 📄 Exercício 4 - Leitura e Escrita de Dados em Arquivo JSON
+
+Crie um script em Python que leia e escreva dados em um arquivo JSON.  
+O arquivo JSON deve conter informações de uma pessoa, com campos nome, idade e cidade.
+
+![Exercício 4](https://github.com/user-attachments/assets/33b921bb-48b5-4814-8e44-181dadc99192)  
+![Exercício 4](https://github.com/user-attachments/assets/c8b7617c-dbe1-4b41-bb4e-f5532dac73d3)
+
